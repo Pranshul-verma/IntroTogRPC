@@ -1,0 +1,2 @@
+models/SumApi.cs \
+models/SumApiGrpc.cs: ../SumApi.proto

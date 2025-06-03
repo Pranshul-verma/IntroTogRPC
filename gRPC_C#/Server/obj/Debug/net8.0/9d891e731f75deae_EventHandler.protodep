@@ -1,0 +1,2 @@
+models/EventHandler.cs \
+models/EventHandlerGrpc.cs: ../EventHandler.proto

@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "EventHandler";
+
+package eventhandler;
+
+service EventService {
+  // Client subscribes to updates, server streams events back
+  rpc SubscribeToEvents(EventSubscriptionRequest) returns (stream EventUpdate);
+}
+
+message EventSubscriptionRequest {
+  string client_id = 1; // optional client identifier
+}
+
+message EventUpdate {
+  string message = 1;
+  int64 Timestamp = 2;
+  //string payload = 3;
+  
+}
