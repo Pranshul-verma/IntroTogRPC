@@ -30,3 +30,36 @@ C:\Users\pverma1\source\repos\gRPC_C#\Client\bin\Debug\net8.0\Server.pdb
 C:\Users\pverma1\source\repos\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Net.Client.dll
 C:\Users\pverma1\source\repos\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Net.Common.dll
 C:\Users\pverma1\source\repos\gRPC_C#\Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Server.deps.json
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Server.exe
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Client.exe
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Client.deps.json
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Client.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Client.pdb
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Core.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Server.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\bin\Debug\net8.0\Server.pdb
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.pdb
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Self Learning\IntroTogRPC\gRPC_C#\Client\obj\Debug\net8.0\ref\Client.dll

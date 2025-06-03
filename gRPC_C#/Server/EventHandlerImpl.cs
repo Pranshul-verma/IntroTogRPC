@@ -35,7 +35,7 @@ namespace Server
             {
                 while (!context.CancellationToken.IsCancellationRequested)
                 {
-                    await Task.Delay(1000); // Keep the stream open
+                    await Task.Delay(1000); 
                 }
             }
             finally
